@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "61816d6e55369108f70f3490"
+  },
+  "id_rep": 1,
+  "name": "Alex",
+  "surname": "Blanco",
+  "nif": "z456789z",
+  "phone_number": "555555555",
+  "empresa": "globo"
+},{
+  "_id": {
+    "$oid": "61816dfb55369108f70f3491"
+  },
+  "id_rep": 2,
+  "name": "John",
+  "surname": "Smith",
+  "nif": "z456789z",
+  "phone_number": "55560574",
+  "empresa": "globo"
+}]

@@ -1,0 +1,19 @@
+
+"S2_03_NIVEL_1_PIZZERIA.V_PEDIDOS"
+
+[{$lookup: {
+  from: 'v_clientes',
+  localField: 'id_clie',
+  foreignField: 'id_clie',
+  as: 'cliente'
+}}, {$lookup: {
+  from: 'pedidos_lineas',
+  localField: 'id_ped',
+  foreignField: 'id_ped',
+  as: 'items'
+}}, {$lookup: {
+  from: 'productos',
+  localField: 'items.id_prod',
+  foreignField: 'id_prod',
+  as: 'productos'
+}}]

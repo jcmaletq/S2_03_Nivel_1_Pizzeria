@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "61815dd655369108f70f3477"
+  },
+  "id_loc": 1,
+  "city": "Hospitalet",
+  "County": "Barcelona",
+  "country": "Espanya"
+},{
+  "_id": {
+    "$oid": "61815df755369108f70f3478"
+  },
+  "id_loc": 2,
+  "city": "Berga",
+  "County": "Barcelona",
+  "country": "Espanya"
+},{
+  "_id": {
+    "$oid": "61815e1455369108f70f3479"
+  },
+  "id_loc": 3,
+  "city": "Gava",
+  "County": "Barcelona",
+  "country": "Espanya"
+}]

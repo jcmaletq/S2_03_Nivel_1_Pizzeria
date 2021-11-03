@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "617a92db9a6229b6471c290e"
+  },
+  "id_emp": 1,
+  "name": "Juan",
+  "surname": "Herrero",
+  "phone_number": "555555555",
+  "e-mail": "juan.herrero@gmail.com",
+  "nif": "z456789z",
+  "created_at": {
+    "$date": "2021-10-19T22:00:00Z"
+  },
+  "estado": true,
+  "trabajo_tipo": "repartidor",
+  "address": [
+    {
+      "id_addr": 5
+    }
+  ],
+  "id_est": 1
+},{
+  "_id": {
+    "$oid": "617a94279a6229b6471c2915"
+  },
+  "id_emp": 2,
+  "name": "Pep",
+  "surname": "Zapater",
+  "phone_number": "555555555",
+  "e-mail": "pep.zapatero@gmail.com",
+  "nif": "x456789x",
+  "created_at": {
+    "$date": "2020-10-19T22:00:00Z"
+  },
+  "estado": false,
+  "id_est": 2,
+  "trabajo_tipo": "repartidor",
+  "address": [
+    {
+      "id_addr": 4
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61819d497ab2f0b62cd6241b"
+  },
+  "id_emp": 3,
+  "name": "Abel",
+  "surname": "Martinez",
+  "phone_number": "3333333",
+  "e-mail": "abel.martinez@gmail.com",
+  "nif": "x456789x",
+  "created_at": {
+    "$date": "2021-10-19T22:00:00Z"
+  },
+  "estado": true,
+  "id_est": 1,
+  "trabajo_tipo": "cocinero",
+  "address": [
+    {
+      "id_addr": 4
+    }
+  ]
+}]

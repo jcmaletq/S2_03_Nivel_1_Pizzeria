@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "6181613855369108f70f3481"
+  },
+  "id_ped": 1,
+  "id_est": 1,
+  "id_repa": 1,
+  "id_clie": 1,
+  "created_at": {
+    "$date": "2021-11-19T23:00:00Z"
+  },
+  "precio_total": 50.44,
+  "delibery_at": {
+    "$date": "2021-11-19T23:00:00Z"
+  },
+  "delibered_at": {
+    "$date": "2021-11-19T23:00:00Z"
+  },
+  "tipo_entrega": "domicilio"
+},{
+  "_id": {
+    "$oid": "6181677255369108f70f3482"
+  },
+  "id_ped": 2,
+  "id_est": 1,
+  "id_repa": 1,
+  "id_clie": 2,
+  "created_at": {
+    "$date": "2021-11-19T23:00:00Z"
+  },
+  "precio_total": 50.44,
+  "delibery_at": {
+    "$date": "2021-11-19T23:00:00Z"
+  },
+  "delibered_at": {
+    "$date": "2021-11-19T23:00:00Z"
+  },
+  "tipo_entrega": "tienda"
+}]

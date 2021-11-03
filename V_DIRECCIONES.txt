@@ -1,0 +1,9 @@
+
+S2_03_NIVEL_1_PIZZERIA.V_DIRECCIONES
+
+[{$lookup: {
+  from: 'localidades',
+  localField: 'id_loc',
+  foreignField: 'id_loc',
+  as: 'localidad'
+}}]

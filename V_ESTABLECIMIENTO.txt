@@ -1,0 +1,18 @@
+
+"S2_03_NIVEL_1_PIZZERIA.V_ESTABLECIMIENTO"
+
+[{
+    $lookup: {
+        from: 'v_direcciones',
+        localField: 'id_addr',
+        foreignField: 'id_addr',
+        as: 'direccion'
+    }
+}, {
+    $lookup: {
+        from: 'v_empleados',
+        localField: 'id_est',
+        foreignField: 'id_est',
+        as: 'empleados'
+    }
+}]

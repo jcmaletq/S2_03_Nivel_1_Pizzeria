@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "617807f68f4ada5b21b4bc1f"
+  },
+  "id_clie": 1,
+  "name": "Nombre1",
+  "surname": "apellido",
+  "phone_number": "111111111",
+  "e-mail": "nombre1.apellido@gmail.com",
+  "created_at": {
+    "$date": "2021-10-19T22:00:00Z"
+  },
+  "address": [
+    {
+      "id_addr": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "617a97789a6229b6471c2924"
+  },
+  "id_clie": 2,
+  "name": "Maria",
+  "surname": "Lara",
+  "phone_number": "888888888",
+  "e-mail": "maria.lara@gmail.com",
+  "created_at": {
+    "$date": "2021-11-19T23:00:00Z"
+  },
+  "address": [
+    {
+      "id_addr": 3
+    }
+  ]
+}]

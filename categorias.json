@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "6181787355369108f70f349c"
+  },
+  "id_cate": 1,
+  "categoria": "redondas"
+},{
+  "_id": {
+    "$oid": "6181789c55369108f70f349d"
+  },
+  "id_cate": 2,
+  "categoria": "calzones"
+}]

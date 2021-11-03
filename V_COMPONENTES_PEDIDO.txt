@@ -1,0 +1,19 @@
+
+ "S2_03_NIVEL_1_PIZZERIA.V_COMPONENTES_PEDIDO"
+
+[{$lookup: {
+  from: 'pedidos_lineas',
+  localField: 'id_ped',
+  foreignField: 'id_ped',
+  as: 'items'
+}}, {$lookup: {
+  from: 'productos',
+  localField: 'items.id_prod',
+  foreignField: 'id_prod',
+  as: 'productos'
+}}, {$lookup: {
+  from: 'receta',
+  localField: 'productos.id_prod',
+  foreignField: 'id_prod',
+  as: 'componentes'
+}}]

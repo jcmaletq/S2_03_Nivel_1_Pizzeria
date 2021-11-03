@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "61815ef455369108f70f347c"
+  },
+  "id_est": 1,
+  "nombre": "Pizzeria Esquina",
+  "id_addr": 5
+},{
+  "_id": {
+    "$oid": "61815fba55369108f70f347e"
+  },
+  "id_est": 2,
+  "nombre": "Pizzeria Rotonda",
+  "id_addr": 4
+}]

@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "61816ed355369108f70f3496"
+  },
+  "id_prod": 1,
+  "nombre": "pizza cuatro quesos",
+  "precio_prod": 10.1,
+  "elabora_propia": true,
+  "descripcion": "emmental,provolone,azul,muzzarella",
+  "imagen": "https://ruta/img1.jpg",
+  "es_pizza": true,
+  "id_cate": 1
+},{
+  "_id": {
+    "$oid": "618176b355369108f70f3497"
+  },
+  "id_prod": 2,
+  "nombre": "refresco 1",
+  "precio_prod": 2.1,
+  "elabora_propia": false,
+  "descripcion": "zero",
+  "imagen": "https://ruta/img2.jpg",
+  "es_pizza": false,
+  "id_cate": 0
+},{
+  "_id": {
+    "$oid": "6181774355369108f70f3498"
+  },
+  "id_prod": 3,
+  "nombre": "pizza calzone",
+  "precio_prod": 20.1,
+  "elabora_propia": true,
+  "descripcion": "jamon,azul,muzzarella",
+  "imagen": "https://ruta//img3.jpg",
+  "es_pizza": true,
+  "id_cate": 2
+},{
+  "_id": {
+    "$oid": "6181777c55369108f70f3499"
+  },
+  "id_prod": 4,
+  "nombre": "hamburguesa",
+  "precio_prod": 10.1,
+  "elabora_propia": true,
+  "descripcion": "carne,lechuga,tomate,queso",
+  "imagen": "https://ruta//img4.jpg",
+  "es_pizza": false,
+  "id_cate": 0
+}]

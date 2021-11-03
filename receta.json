@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "6181793a55369108f70f34a0"
+  },
+  "id_prod": 1,
+  "id_ingrediente": "emmental",
+  "cantidad_ing": 1.12
+},{
+  "_id": {
+    "$oid": "6181799c55369108f70f34a1"
+  },
+  "id_prod": 1,
+  "id_ingrediente": "provolone",
+  "cantidad_ing": 1.01
+},{
+  "_id": {
+    "$oid": "618179b555369108f70f34a2"
+  },
+  "id_prod": 1,
+  "id_ingrediente": "azul",
+  "cantidad_ing": 2.12
+},{
+  "_id": {
+    "$oid": "61817a5755369108f70f34a3"
+  },
+  "id_prod": 3,
+  "id_ingrediente": "azul",
+  "cantidad_ing": 3.12
+},{
+  "_id": {
+    "$oid": "61817a7955369108f70f34a4"
+  },
+  "id_prod": 3,
+  "id_ingrediente": "jamon",
+  "cantidad_ing": 1.12
+},{
+  "_id": {
+    "$oid": "61817a9a55369108f70f34a5"
+  },
+  "id_prod": 4,
+  "id_ingrediente": "carne",
+  "cantidad_ing": 2
+},{
+  "_id": {
+    "$oid": "61817ab255369108f70f34a6"
+  },
+  "id_prod": 4,
+  "id_ingrediente": "tomate",
+  "cantidad_ing": 3.12
+}]

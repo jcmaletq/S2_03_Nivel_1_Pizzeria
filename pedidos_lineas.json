@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "61816c1955369108f70f348b"
+  },
+  "id_ped": 1,
+  "id_lin": 1,
+  "id_prod": 1,
+  "cantidad": 1.1,
+  "precio_lin": 10.34
+},{
+  "_id": {
+    "$oid": "61816c8455369108f70f348c"
+  },
+  "id_ped": 1,
+  "id_lin": 2,
+  "id_prod": 2,
+  "cantidad": 3.5,
+  "precio_lin": 20.1
+},{
+  "_id": {
+    "$oid": "61816ce655369108f70f348d"
+  },
+  "id_ped": 2,
+  "id_lin": 1,
+  "id_prod": 3,
+  "cantidad": 5.5,
+  "precio_lin": 50.44
+}]
